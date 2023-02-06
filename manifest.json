@@ -1,0 +1,35 @@
+{
+    "name": "ВБРР",
+    "short_name": "ВБРР",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#EFEFEFFF",
+    "theme_color": "#F6C817FF",
+    "description": "ВБРР Интернет-Банк",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/vbrr_web_192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/vbrr_web_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/vbrr_web_maskable_192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/vbrr_web_maskable_512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
